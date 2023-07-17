@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Bootcamp31 
+server:
+  port: 8080    
